@@ -1,0 +1,16 @@
+The code snippets I provided aren’t automatically saved in a notepad or any file on your computer. You’ll need to manually copy and paste them into the appropriate files in your project.
+
+Here’s a quick guide on how to do that:
+
+Open a Text Editor:
+You can use any text editor like Notepad, Visual Studio Code, Sublime Text, or Atom.
+Create and Save Files:
+For the front-end (React):
+Create a new file named LoginPage.js and paste the LoginPage code into it.
+Create another file named Dashboard.js and paste the Dashboard code into it.
+Open App.js in your React project and replace its content with the provided code.
+For the back-end (Node.js with Express):
+Create a new file named server.js and paste the server code into it.
+Save the Files:
+Save each file in the appropriate directory of your project.
+If you need help with any specific part of this process, feel free to ask!
